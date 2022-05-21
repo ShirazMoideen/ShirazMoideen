@@ -2,8 +2,8 @@
 - 👀 I’m interested in Learning Python and PyCharm Game development
 - 🌱 I’m currently learning Python and PyCharm game development
 - 💞️ I’m looking to collaborate on my current Game Project
--    I'm currently working on a Fighting Game called Flurry Furry Mythical Creatures. The Cards for this game are currently for sale on my OpenSea account
--    https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/38482210303008237949787574825212125225565900708915753049047579364201181741061/
+- I'm currently working on a Fighting Game called Flurry Furry Mythical Creatures. The Cards for this game are currently for sale on my OpenSea account: -      
+- Opensea Account: (https://opensea.io/shiraz_m)
 - 📫 Feel free to DM me on my Twitter Page: https://twitter.com/shiraz_moideen
 ShirazMoideen/ShirazMoideen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
